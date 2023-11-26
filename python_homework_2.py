@@ -30,7 +30,5 @@ cost_of_one_car = 31500
 total_cars = total_in_dollars // cost_of_one_car
 print(total_cars)
 # Task_9
-# print( f{'я, Сергій, зможу заробити лише', 'total_in_dollars'})
-# # full_name = f'{name} {surname} - {reaction} another text'
 full_text = f"я, {username.strip().title()}, зможу заробити лише {total_in_dollars} доларів, що вистачить лише  на {total_cars} тойот, мене це не влаштовує, тому я буду змінювати своє життя і буду завзято вивчати програмування!"
 print(full_text)
